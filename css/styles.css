@@ -1,3 +1,16 @@
-p{
-    color:blue;
+/* red - #A83F3A
+   green - #40AD59
+   black - #2C2D30
+   */
+
+.ProfileImage{
+    height:100px;
+    width:100px;
+    border-radius:100px;
+}
+
+.Name{
+    font-family:"Verdana",Geneva,sans-serif;
+    font-size:.7em;
+    color:#2C2D30;
 }
