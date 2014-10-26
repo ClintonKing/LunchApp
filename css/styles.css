@@ -16,5 +16,21 @@
 }
 
 .Triangle{
+    height:100%;
+    width:100%;
+    
+}
+
+.NameBox{
+    width:75%;
+    height:120px;
+    color:white;
+    
+}
+
+.TriangleBox{
+    width:25%;
+    height:120px;
+    border:black;
     
 }
